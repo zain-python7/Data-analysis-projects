@@ -1,0 +1,51 @@
+# Data Analysis Projects Portfolio
+
+This repository contains 8 data analysis and machine learning projects completed as part of the WorldQuant University Applied Data Science Lab.
+
+## 🔧 Tools & Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SQL
+- Jupyter Notebook
+
+## 📂 Projects Included
+
+1. **Air Quality Analysis in Dar es Salaam, Tanzania and Nairobi, Kenya**  
+   Analyzed air quality data to identify pollution patterns and trends in two major East African cities.
+
+2. **Data Analysis on WorldQuant University Coursework**  
+   Conducted various data analysis tasks and assignments as part of the WorldQuant University curriculum.
+
+3. **Clustering Credit-Challenged Households (SCF 2019)**  
+   Applied clustering techniques to segment credit-challenged households based on financial data from the Survey of Consumer Finances.
+
+4. **Machine Learning Model to Predict Bankruptcy in Poland and Taiwan**  
+   Developed and evaluated a predictive model to forecast bankruptcy risks using financial and economic indicators.
+
+5. **Housing Market Analysis in Mexico**  
+   Explored housing market data to uncover trends and factors affecting property prices in Mexico.
+
+6. **Predicting Earthquake Damage in Nepal**  
+   Built a predictive model to estimate the extent of damage caused by earthquakes using historical disaster data.
+
+7. **Housing Prices Prediction in Buenos Aires**  
+   Developed a regression model to predict housing prices based on multiple economic and geographic features.
+
+8. **Volatility Forecasting in South Africa and India**  
+   Analyzed financial market data to forecast stock market volatility in two emerging economies.
+
+---
+
+## 📂 How to Use This Repository
+Each project folder contains Jupyter Notebooks, datasets, and other relevant files. Explore the notebooks to understand the data analysis process, visualization, and modeling techniques applied.
+
+## 📫 Contact
+Feel free to reach out via LinkedIn or email for questions or collaborations.
+
+---
+
+Thank you for visiting my portfolio!
